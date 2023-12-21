@@ -24,6 +24,7 @@ public class Two_Sum{
         Solution s = new Solution();
         s.twoSum(array,target);
         
+        read.close();
     }
 }
 class Solution{
