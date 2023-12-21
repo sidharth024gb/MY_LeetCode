@@ -22,7 +22,7 @@ public class Two_Sum{
         target = read.nextInt();
 
         Solution s = new Solution();
-        s.twoSum(array,target);
+        s.twoSum(array, target);
         
         read.close();
     }
